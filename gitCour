@@ -1,0 +1,23 @@
+cmd en admin pour lancer la ligne de commande
+git pour voir si j'ai bien git sur mon ordi
+On se place dans notre dossier d'installation de git et je fais git init
+git init
+git config --global color.diff auto (pas necessaire) 
+git config --global color.status auto (pas necessaire)
+git config --global user.name "GtmUser"
+git config --global user.email "patrick.duflot@gmail.com"
+git clone https://github.com/GtmUser/JAVA68.git
+
+git status => me permet de voir les changements de fichier en local
+git add * => je previens qu'une fois que j'ai un nouveau fichier en local. Pas besoin de le faire plusieurs fois pour le
+le meme fichier.
+git commit -m "mon premier commit"
+git status => on vérifie que les changements sont bien passés
+git diff => voir les modifs
+
+Une fois les changements locaux faits, il me reste plus qu'a le push sur notre depot sur le serveur github
+Pour ce faire j'utilise git push.
+
+Faire attention avant de push, verifier si je suis bien a jour.
+Je vérifie si ma version local est la meme que la version server.
+C'est pour cela que je dois faire un git pull avant le git push.
