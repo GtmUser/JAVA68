@@ -1,1 +1,38 @@
 Attrapez les tou(te)s !
+
+001 - Bulbizarre
+002 - Herbizarre
+003 - Florizarre
+004 - Carapuce
+005 - Carabaffe
+006 - Tortank
+007 - Salameche
+008 - Reptincel
+009 - Dracaufeu
+010 - Chenipan
+011 - Chrysacier
+012 - Papilusion
+013 - Aspicot
+014 - Coconfort
+015 - Dardargnan
+016 - Roucool
+017 - Roucoups
+018 - Roucarnage
+019 - Rattata
+020 - Rattatac
+021 - Piafabec
+022 - Rapasdepic
+023 - Abo
+024 - Arbok
+025 - Pikachu
+026 - Raichu
+027 - Sabelette
+028 - Sablaireau
+029 - Nidoran femelle
+030 - Nidorina
+031 - Nidoqueen
+032 - Nidoran male
+033 - Nidorino
+034 - Nidoking
+
+... à suivre !
